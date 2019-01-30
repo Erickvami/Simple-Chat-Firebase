@@ -1,0 +1,19 @@
+{
+  "name": "chat-test",
+  "version": "0.0.0",
+  "description": "previo de demo chat con firebase",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "firebase": "5.8.0",
+    "react-native-elements": "0.19.1",
+    "react-native-modal": "7.0.2",
+    "react-native-paper": "2.2.8",
+    "react-native-swipe-up-down": "1.0.7",
+    "react-native-vector-icons": "6.2.0"
+  }
+}
